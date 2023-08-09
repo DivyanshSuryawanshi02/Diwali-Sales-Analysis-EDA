@@ -41,7 +41,10 @@ Group 5 - Occupation:<br>
 Group 6 - Product Category:<br>
 ![Product_Category](https://github.com/DivyanshSuryawanshi02/Diwali-Sales-Analysis-EDA/assets/134506524/ff611ebf-cf37-40e8-8070-fda6e70dc3fd)<br>
 **Most of the sold products are from Food, Clothing, and Electronics categories.**
-
+### Lessons Learned
+`EDA`
+`Data Visualization`
+`Data Cleaning`
 ## Conclusion:
 Married women age group 26-35 yrs from UP, Maharastra, and Karnataka working in IT, Healthcare, and Aviation are more likely to buy products from Food, Clothing, and Electronics categories. Also, the product with product id P00265242 is sold the most.
 
